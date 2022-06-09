@@ -2,9 +2,6 @@
 <krpano version="1.19">
 
 
-  <!-- unsupported kind of display : PointMap -->
-
-
   
   <!-- Spot Style - Default Polygon Spot Style -->
   <style name="PolygonDefaultPolygonSpotStyle"

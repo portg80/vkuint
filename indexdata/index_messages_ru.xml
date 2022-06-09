@@ -9,22 +9,21 @@
 
 
 
-  <data name="ru_pano1214_title"><![CDATA[220]]></data>
-  <data name="ru_spotpolygon1220_tooltip"><![CDATA[Парикхмахерская]]></data>
-  <data name="ru_spotpolygon1225_tooltip"><![CDATA[2 кабинет]]></data>
+  <data name="ru_pano1214_title"><![CDATA[220_1]]></data>
+  <data name="ru_spotpolygon1220_tooltip"><![CDATA[Парикхмахерская_1]]></data>
+  <data name="ru_spotpolygon1225_tooltip"><![CDATA[2 кабинет_1]]></data>
 
 
-  <data name="ru_pano1216_title"><![CDATA[2 кабинет]]></data>
-  <data name="ru_spotpolygon1221_tooltip"><![CDATA[220]]></data>
-  <data name="ru_spotpolygon1222_tooltip"><![CDATA[Парикхмахерская]]></data>
+  <data name="ru_pano1216_title"><![CDATA[2 кабинет_1]]></data>
+  <data name="ru_spotpolygon1221_tooltip"><![CDATA[220_1]]></data>
+  <data name="ru_spotpolygon1222_tooltip"><![CDATA[Парикхмахерская_1]]></data>
 
 
-  <data name="ru_pano1217_title"><![CDATA[Парикхмахерская]]></data>
-  <data name="ru_spotpolygon1223_tooltip"><![CDATA[2 кабинет]]></data>
-  <data name="ru_spotpolygon1224_tooltip"><![CDATA[220]]></data>
+  <data name="ru_pano1217_title"><![CDATA[Парикхмахерская_1]]></data>
+  <data name="ru_spotpolygon1223_tooltip"><![CDATA[2 кабинет_1]]></data>
+  <data name="ru_spotpolygon1224_tooltip"><![CDATA[220_1]]></data>
 
 
-	<data name="ru_spotmap1270_tooltip"><![CDATA[Парикхмахерская]]></data>
 
 
 
@@ -34,7 +33,6 @@
   <data name="ru_contextmenunormallabel"><![CDATA[Normal View]]></data>
   <data name="ru_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
   <data name="ru_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
-  <data name="ru_webvrbuttontooltip"><![CDATA[]]></data>
 
 
   <data name="ru_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
