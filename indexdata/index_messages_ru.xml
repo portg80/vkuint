@@ -9,19 +9,30 @@
 
 
 
-  <data name="ru_pano10_title"><![CDATA[1]]></data>
+  <data name="ru_pano1214_title"><![CDATA[220_1]]></data>
+  <data name="ru_spotpolygon1220_tooltip"><![CDATA[Парикхмахерская_1]]></data>
+  <data name="ru_spotpolygon1225_tooltip"><![CDATA[2 кабинет_1]]></data>
 
 
-  <data name="ru_pano12_title"><![CDATA[2]]></data>
+  <data name="ru_pano1216_title"><![CDATA[2 кабинет_1]]></data>
+  <data name="ru_spotpolygon1221_tooltip"><![CDATA[220_1]]></data>
+  <data name="ru_spotpolygon1222_tooltip"><![CDATA[Парикхмахерская_1]]></data>
 
 
-  <data name="ru_pano14_title"><![CDATA[3]]></data>
+  <data name="ru_pano1217_title"><![CDATA[Парикхмахерская_1]]></data>
+  <data name="ru_spotpolygon1223_tooltip"><![CDATA[2 кабинет_1]]></data>
+  <data name="ru_spotpolygon1224_tooltip"><![CDATA[220_1]]></data>
 
 
 
 
 
 
+  <data name="ru_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="ru_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="ru_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="ru_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="ru_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
 
 
   <data name="ru_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>

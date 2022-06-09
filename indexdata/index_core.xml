@@ -87,6 +87,22 @@
 
 
 
+  <events name="startTourForJsEvents" onTourStart="startTourForJsEventsAction();" keep="true" />
+  <action name="startTourForJsEventsAction">
+    js(eventTourStarted());
+  </action>
+
+
+  <events name="showLensflaresOnNewPanoEvent" onPanoStart="showLensflaresOnNewPanoAction" keep="true" devices="flash" />
+  <action name="showLensflaresOnNewPanoAction" devices="flash">
+    set(nb_lensflares, get(lensflare.count));
+    if (nb_lensflares != 0,
+      showpanolensflares();
+    );
+  </action>
+
+  <!-- Default Lensflares set -->
+  <lensflareset name="DEFAULT" url="%FIRSTXML%/graphics/flares.jpg" devices="flash" />
 
 
 
