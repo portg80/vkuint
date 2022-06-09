@@ -52,14 +52,6 @@
 		<![endif]-->
 
 
-		<link type="text/css" href="indexdata/lib/jquery-ui-1.11.1/jquery-ui.min.css" rel="stylesheet" />
-		<script type="text/javascript" src="indexdata/lib/jquery-ui-1.11.1/jquery-ui.min.js"></script>
-		<script type="text/javascript" src="indexdata/lib/jquery.ui.touch-punch.min.js"></script>
-		<script type="text/javascript" src="indexdata/lib/Kolor/KolorTools.min.js"></script>
-		<script type="text/javascript" src="indexdata/graphics/KolorBootstrap.js"></script>
-
-
-
 		<style type="text/css">
 			div#panoDIV.cursorMoveMode {
 				cursor: move;
@@ -121,14 +113,10 @@
 			function accessWebVr(){
 				unloadPlayer();
 
-				eventUnloadPlugins();
-
 				setTimeout(function(){ loadPlayer(true); }, 100);
 			}
 			function accessStdVr(){
 				unloadPlayer();
-
-				resetValuesForPlugins();
 
 				setTimeout(function(){ loadPlayer(false); }, 100);
 			}
@@ -155,8 +143,6 @@
 
 						,html5:"prefer"
 
-
-						,wmode: getWmodeValue()
 
 					});
 				}
